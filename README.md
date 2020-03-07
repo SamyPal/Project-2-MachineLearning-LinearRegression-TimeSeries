@@ -1,9 +1,8 @@
-Cookicutter Data Science Simplified
+Annual Car Sales Prediction
 
-This small project is meant to be a beginner's introduction to Cookiecutter Data Science.
-Just clone or download this repo and poke around a bit. 
-For the original and much more extensive version of Cookiecutter Data Science, see [here](https://drivendata.github.io/cookiecutter-data-science/).
+This is a project that demonstrates the use of Machine Learning Linear Regression and Time Series to predict the total annual sales of cars from macroeconomic factors, while predicting the MSRP of a car based on its features, make, and model. This project is also aimed to demonstrate basic webscraping skills which i have used to scrape the most sold cars for the years. 
 
+Conclusions indicate that the unemployment rate as one of the major factors in the total annual sales of the cars. Also, it was found that during a recession, when the unemployment rate was at a peak, the car sales dropped and the top cars sold during a recession were the ones that were less expensive and gave the high gas mileage (i.e., high miles per gallon). During a good year when the unemployment rate was at its low, people still gravitated towards purchase the cars that were less expensive, while they were less concerned about the gas mileage of the car.
 
 ```
 Template Organization
@@ -32,4 +31,4 @@ Template Organization
 
 
 Enjoy!    
-Erik Kristofer Anderson
+Samy Palaniappan
